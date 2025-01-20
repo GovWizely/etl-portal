@@ -2,12 +2,8 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: Features
   link: /blog/
-  new_window: false
-  highlight: false
-- name: About
-  link: /about/
   new_window: false
   highlight: false
 - name: Contact
@@ -18,7 +14,3 @@
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true

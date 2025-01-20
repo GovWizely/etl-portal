@@ -1,24 +1,23 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: VorAIcious
+url: "https://www.VorAIcious.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Product marketing template for Jekyll.
+logo: /vor-logo.svg
+description: VorAIcious
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: VorAIcious
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build
@@ -86,14 +85,8 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
-    - Instagram
     - LinkedIn
-    - Pinterest
-    - Tumblr
-    - Twitter
-    - YouTube
-    - RSS
+    - Bluesky
 
 _comments:
   map: Update the map location and display settings.
